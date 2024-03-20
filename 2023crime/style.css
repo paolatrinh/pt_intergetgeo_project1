@@ -1,0 +1,13 @@
+#map {
+    height: 90vh;
+    width: 100vw;
+    margin: 0;
+}
+
+.test {
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
